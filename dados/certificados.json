@@ -1,0 +1,1636 @@
+{
+  "certificados": [
+    {
+      "nome": "CRECHE ANJOS DO AMANHA",
+      "id": 1,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1XmwEwHQ1lhXDhwbXM3M6jcBLmbHOK6n8"
+    },
+    {
+      "nome": "INSTITUTO DE POLITICAS PUBLICAS",
+      "id": 2,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1SoTDqOcvYrq1jqcmd9OKjSsYTtmU8Y2t"
+    },
+    {
+      "nome": "ASSOCIACAO CULTURAL SOCIAL ESPORTIVA E TRABALHO METROPOLITANO FAMILIA PANDA",
+      "id": 3,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1DnYLYNIbnyPlAX_s_ArMpCXWWNy4uo1Q"
+    },
+    {
+      "nome": "INSTITUTO SOCIAL ESPORTE E SAUDE PARA TODOS",
+      "id": 4,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1ABLzbHEh0CNaMKlS-qt6n2eRsy5FfdGG"
+    },
+    {
+      "nome": "ADIMI ASSOCIACAO DA DIVINA MISERICORDIA",
+      "id": 5,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1jvbLEwJNESpAUhGZKWZunvZwCjWfV2fJ"
+    },
+    {
+      "nome": "SOCIEDADE BENEFICENTE E MELHORAMENTOS DO BAIRRO DA AREIA BRANCA",
+      "id": 6,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1wrrRK308A1ixYmrlksgO_OCz_BHCekcF"
+    },
+    {
+      "nome": "ESPORTE CLUBE SAO PAULINO",
+      "id": 7,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1wMogwqLEGRVbN7sogfPkGwX5C524iAj_"
+    },
+    {
+      "nome": "INSTITUTO CASA DE LUZ",
+      "id": 8,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1MwQ7VCAuQyJC_Ix0X1h3MCCrpSrarNni"
+    },
+    {
+      "nome": "ASSOCIACAO SOCIAL CATUENSE",
+      "id": 9,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=14BMzTGE6VYrX9sXEO8ndIVUjAU4aW4LZ"
+    },
+    {
+      "nome": "ASEL ASSOCIACAO SOCIOEDUCATIVA DE ESPORTE LAZER",
+      "id": 10,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1jLFywYsHmN9YgMIxDa5WcjDoyrR2dVnI"
+    },
+    {
+      "nome": "MOVIMENTO SOCIAL DA CIDADANIA BALNEARIO NOVO SAO JOSE",
+      "id": 11,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1cZGqQHx-N7ZM_IeY7DLYb2HMeYCd4jii"
+    },
+    {
+      "nome": "COMUNIDADE TERAPEUTICA RENASCER",
+      "id": 12,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1M408nX7rIKpG6TYTu8j-MPmDJV76JhZ3"
+    },
+    {
+      "nome": "ASSOCIACAO DOS MORADORES DA TERRA PROMETIDA VILMA FLOR",
+      "id": 13,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=132qW3w4uun7ej7Oc0rS8SNqKfpV0WUfa"
+    },
+    {
+      "nome": "ASSOCIACAO COMUNITARIA BENEFICENTE ESPERANCA DO INACIO II",
+      "id": 14,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1g9yLh2_DiIW-GjwmczAjUKA4n9bdijQt"
+    },
+    {
+      "nome": "ASSOCIACAO RENOVO",
+      "id": 15,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1GoGR-3QIXfiyWGgatpS7yS6R4YQ8qXkG"
+    },
+    {
+      "nome": "ASSOCIACAO DE MORADORES FENIZ DO MORUMBIZINHO",
+      "id": 16,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1rUiOM5VpQohCHYTJdDoBkkvKvuIDtz6O"
+    },
+    {
+      "nome": "ASSOCIACAO AMIGOS DA RUIVA",
+      "id": 17,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1d7T89iqy-0cUCP529cNcdKXR9ITrWdCw"
+    },
+    {
+      "nome": "INSTITUTO MOVIMENTO POSITIVO",
+      "id": 18,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1kilkB0hb73ZSV0EbI_k8fJcA_dF6N0Tp"
+    },
+    {
+      "nome": "ASSOCIACAO DOS MORADORES DO JARDIM NOVA VITORIA",
+      "id": 19,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1sLw8AgNUU3ADSLTKc0sYjEagcu8Hrjp5"
+    },
+    {
+      "nome": "ASSOCIACAO JUNTOS SOMOS MAIS FORTES",
+      "id": 20,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=15GkFKhjYwVr-i8FQYF6S0ovTubaFjmCS"
+    },
+    {
+      "nome": "ASSOCIACAO RECANTO DAS ESTRELAS",
+      "id": 21,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=15ahb2lM3RzBNRT__VYvlALQ0KHfQ3MsS"
+    },
+    {
+      "nome": "ASSOCIACAO MORADORES BEMFICA",
+      "id": 22,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1M73J2lLSleOfkRVw4QzLx12HAPEv1wzT"
+    },
+    {
+      "nome": "ASSOCIACAO DOS MOVIMENTOS DE MORADIA DA REGIAO SUDESTE",
+      "id": 23,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1UFQqzERRG5D8SllVzSHLCR1-5efIcM3j"
+    },
+    {
+      "nome": "ASSOCIACAO DE MORADORES E AMIGOS DO JARDIM CIPOABA AMAJC",
+      "id": 24,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=11BMDexE79btH5N4RZ2IpVP7Pe19Q2Nn0"
+    },
+    {
+      "nome": "ASSOCIACAO DE MORADORES DO PINHEIRINHO II",
+      "id": 25,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1IBbMoeD_LbmGORvMNpNfZMaHZrVDYmmo"
+    },
+    {
+      "nome": "SOCIEDADE AMIGOS DO JARDIM MARILIA",
+      "id": 26,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1QkJuD15eK2jDzx9drwLkgr6gaVCT0BbH"
+    },
+    {
+      "nome": "ASSOCIACAO DO BEM CIDADE TIRADENTES",
+      "id": 27,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1NXzSwcBY6E1kYnpdnNA88SwCSm0Grudx"
+    },
+    {
+      "nome": "CENTRO ASSISTENCIAL VOLUNTARIO DE EDUCACAO SAUDE ALIMENTACAO E CULTURA CAVESAC",
+      "id": 28,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1djc1zRTZB9OZBDgr50Cmjs5F5cUV0U0j"
+    },
+    {
+      "nome": "CRECHE MAE CRISTINA",
+      "id": 29,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1O1Im0ICcrvBzk8zjAYQcOiOwyxRLC0QD"
+    },
+    {
+      "nome": "CASA LAUDELINA DE CAMPOS MELLO ORGANIZACAO DA MULHER NEGRA CLCMOMN",
+      "id": 30,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=19wiBXmkNJJ0ApLC3km02fncvO9lrB-Ih"
+    },
+    {
+      "nome": "ASSOCIACAO AMIGOS DO BAIRRO DO PARQUE DAS NACOES JARDIM SAO FRANCISCO E PARQUE RESIDENCIAL IPIRANGA NAFRAMI",
+      "id": 31,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1asLcMxzUwTGYIHndzQ6lmDQGA6NWuiel"
+    },
+    {
+      "nome": "ASSOCIACAO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE SUMARE APAE",
+      "id": 32,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1CEx0wmdSg7g--Qjfi2TOgO_ZCqDs6mFf"
+    },
+    {
+      "nome": "PROVINCIA DOS CAPUCHINHOS DE SAO PAULO",
+      "id": 33,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1GwNhK3UwYFdSSurxbW4QrPNVDQ_TUM7E"
+    },
+    {
+      "nome": "CENTRO ESPIRITA BEZERRA DE MENEZES",
+      "id": 34,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1HpzbacSWRMITkfSfk9Nrr1ACWGi6pzYg"
+    },
+    {
+      "nome": "ASSOCIACAO RECANTO TIA CELINA",
+      "id": 35,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1hnDsO_BeDG_ndyI72wX5Ks0aiIzxzd8t"
+    },
+    {
+      "nome": "CRECHE CANTINHO DE LUZ",
+      "id": 36,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1a49UXmSpsqQOfvAa7hIkPMhnY6Dk0eIa"
+    },
+    {
+      "nome": "ASSOCIACAO FILANTROPICA DE MORADORES DO PARQUE BANDEIRANTES",
+      "id": 37,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1C7k5diDrzj3qkgq9XvVJKiOwcmXssi4T"
+    },
+    {
+      "nome": "GRUPO DE APOIO NISFRAM",
+      "id": 38,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1VwthYh8rZQUjZWe0FSq50bQ6m7EvzzmQ"
+    },
+    {
+      "nome": "INSTITUTO EDUCACIONAL E ASSISTENCIAL PIO XII",
+      "id": 39,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1RRgUEO6-E0kWf56KNaMrnTJOWDEJjmjR"
+    },
+    {
+      "nome": "ASSOCIACAO PESTALOZZI DE SUMARE",
+      "id": 40,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1xZZ4SDuGDBGwNMKkEEH8GRDUwvd31rfK"
+    },
+    {
+      "nome": "ASSOCIACAO DE MORADORES E AGRICULTORES DO ASSENTAMENTO SUMARE 1 JOAO CALIXTO DA SILVA",
+      "id": 41,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1GXPiSGuG-BV8C31LiWNp6PyJjMeurIot"
+    },
+    {
+      "nome": "REENCONTRO CENTRO DE TRATAMENTO PARA DEPENDENTES DE ALCOOL E OUTRAS DROGAS",
+      "id": 42,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1NdXgAh6gCxpvB9k-YpVCQ1o3X0zEHJH5"
+    },
+    {
+      "nome": "ASSOCIACAO DE AMIGOS DE NOVA VENEZA SANOVA",
+      "id": 43,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1cMaT7Yiv3VsdC1eohvs48Jr7Vyj4No1f"
+    },
+    {
+      "nome": "CENTRO DE INTEGRACAO SOCIAL PROFESSOR FRANCISCO JAIRO PEREIRA LIMA",
+      "id": 44,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1dQP0-Ui9L-gOGKKI7xrznRC0GPWC67w2"
+    },
+    {
+      "nome": "CENTRO DE APOIO A CRIANCA E AO ADOLESCENTE RECANTO DE GLORIA",
+      "id": 45,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1X_QRgmogi2_Uz2y_AyJUTBPyYFEzmUOT"
+    },
+    {
+      "nome": "INSTITUTO SORRISO SOLIDARIO",
+      "id": 46,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Qd_S8FbTg34skTKn3HdGo8ReZegUtUA0"
+    },
+    {
+      "nome": "INSTITUTO RAINHA DA PAZ SITIO CONCEICAO",
+      "id": 47,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=17HdMi4ZalrQO2TqiDk55lPWXm_bCcSrD"
+    },
+    {
+      "nome": "ASSOCIACAO BRILHO DO AMANHECER",
+      "id": 48,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=14XVHB-tdmLYMzorySDdl0c-Nf934A__h"
+    },
+    {
+      "nome": "ASSOCIACAO GUARULHENSE DE VOLEIBOL",
+      "id": 49,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1gmAZc_OYk9QPDU-RbKR7TiBuLse_a8Sn"
+    },
+    {
+      "nome": "NUCLEO BATUIRA SERVICO DE PROMOCAO DA FAMILIA",
+      "id": 50,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1P0T5SpTyDzGTAmavVZTsVEdXwwWoarzo"
+    },
+    {
+      "nome": "INSTITUTO LUASA ESPORTE GUARULHOS",
+      "id": 51,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1HZ9JFmWb6468nKVV8YKTEvth6g7w9950"
+    },
+    {
+      "nome": "ASSOCIACAO ANTONIO DE PAIVA",
+      "id": 52,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1hiTrkmn2-aICSb1qA5P_n7li0EL8MPQK"
+    },
+    {
+      "nome": "ASSOCIACAO DE MULHERES EM ACAO DA VILA QUEIROZ II",
+      "id": 53,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1uW_-EozGyfInhR4Xed6oOtu8anD_XRO1"
+    },
+    {
+      "nome": "CADEVI CENTRO DE APOIO AO DEFICIENTE VISUAL",
+      "id": 54,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=11jfo9T1sGm7Oo-UvgiaJIuq4UTAPZwhn"
+    },
+    {
+      "nome": "ASSOCIACAO BENEFICENTE CASA DE JOANA",
+      "id": 55,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=115CyYbepOO6lIbzWJV3C77dCBgcNQ2Tt"
+    },
+    {
+      "nome": "ESPACO POPULAR DE ACAO E INCLUSAO SOCIAL DO JARDIM PEROLA II",
+      "id": 56,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1fMtj1Rx3oE1XsGm0uxQZifOZk0P6EGhF"
+    },
+    {
+      "nome": "UMOJ UNIAO DE MORADORES ORQUIDEAS DO JARAGUA",
+      "id": 57,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1_OYHaJ2Pbp9uJML4ohx8gTWXIQ1vWDxl"
+    },
+    {
+      "nome": "COMUNIDADE TERAPEUTICA SANTA EDWIGES",
+      "id": 58,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1CBZBJxoai-wOx-A8GmrcRdgj-eLycE2R"
+    },
+    {
+      "nome": "COMUNIDADE KOLPING DO JARDIM SAO JOSE",
+      "id": 59,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1ZCKLloBYxIGqorcmEBFwgL2gub5sEpCw"
+    },
+    {
+      "nome": "CLUBE DE MAES DE PALMA DE ITAQUA",
+      "id": 60,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1KxHmVZ-9_-kMY9IdriqCyDRVVXbBA8uI"
+    },
+    {
+      "nome": "SOCIEDADE AMIGOS DO BAIRRO DO JARDIM SAO CARMO",
+      "id": 61,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=100OdtLeyQ5Fn6AtMeBdcTRplfq6BomSJ"
+    },
+    {
+      "nome": "CIA CULTURAL BOLA DE MEIA",
+      "id": 62,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1dqoRG2by7L8gSWDwjASQn98MBNJNj3nb"
+    },
+    {
+      "nome": "ASSOCIACAO TODOS POR UMA CAUSA JUSTA UM MUNDO MELHOR",
+      "id": 63,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1axHoTzWrvYu18npUwEiCnHX3JU027EVY"
+    },
+    {
+      "nome": "COOPERATIVA AGROPECUARIA DE CACONDE E REGIAO COOPAC",
+      "id": 64,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1SEFYGrQf13xdsKugU3-bvuVHaQpSL6uw"
+    },
+    {
+      "nome": "SINDICATO RURAL DE CACONDE",
+      "id": 65,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1yvnACxINXfUAVk6XHogQCLXnAsQb6Wkb"
+    },
+    {
+      "nome": "ASSOCIACAO ORIENTE DE PRODUTORES RURAIS DO ASSENTAMENTO PRIMAVERA AOPRAP",
+      "id": 66,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1ybC7u7HctNMfect-TR0BMDwUCEWrebhK"
+    },
+    {
+      "nome": "AMAVAP ASSOCIACAO DAS AGRICULTORAS E AGRICULTORES AGROECOLOGICOS DO VALE DO PARAIBA",
+      "id": 67,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1c18UGJSkWLiQQTpy3Ggr-FB5MStXRp9y"
+    },
+    {
+      "nome": "COOAAT COOPERATIVA AGROPECUARIA DOS ASSENTADOS DE TREMEMBE",
+      "id": 68,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1YbYPFace3y1obsCf5I0GSD8p1YlpWuiV"
+    },
+    {
+      "nome": "REDE BEIJA FLOR DE PEQUENAS BIBLIOTECAS VIVAS DE SAO PAULO",
+      "id": 69,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=16cOwtf6alQctp7PY3cIrv2jF9fInVvDY"
+    },
+    {
+      "nome": "ASSOCIACAO CULTURAL ARTISTICA CINEFAVELA",
+      "id": 70,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Nai96b4aZ_hnHRFLW7HXEEw4aOKFjqQ6"
+    },
+    {
+      "nome": "ASSOCIACAO AGRO PROGRESSO ROSELI NUNES AAPRN",
+      "id": 71,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1RxprALZeLMQSfo8hH9W9hk0jE9ioISj2"
+    },
+    {
+      "nome": "ASSOCIACAO DE CURSINHOS COMUNITARIOS PRE UNIVERSITARIO RDE CCM",
+      "id": 72,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1guxR_a7TD1S1pcgoFYpD9-FZsj-7seU7"
+    },
+    {
+      "nome": "ASSOCIACAO VILA INDEPENDENCIA",
+      "id": 73,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1gu53GLzFixLsMhaHoE6RhnJiyIIu_YVR"
+    },
+    {
+      "nome": "ASSOCIACAO AMIGOS DO BAIRRO VILA MAGINI",
+      "id": 74,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1l3TlW1De8Un9DPJFqIhJdOsz1BABvkbI"
+    },
+    {
+      "nome": "INSTITUTO NOVA UNIAO DA ARTE NUA",
+      "id": 75,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=14F63f5_Lvt52R_aHSY8PSUXzns-jjF9l"
+    },
+    {
+      "nome": "ASSOCIACAO DA CASA DOS DEFICIENTES DE ERMELINO MATARAZZO",
+      "id": 76,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1hRhR-IYiJWWVR6l2qoujyy85qC76lhTP"
+    },
+    {
+      "nome": "ASSOCIACAO MULHERES DO GAU",
+      "id": 77,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Dv45Q22J6809NtvROFOzunJ9tjV8kN9U"
+    },
+    {
+      "nome": "ASSOCIACAO JOSE DE ALENCAR",
+      "id": 78,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1bUv1A12sTPdsVrsHjZDclNnjYaUO8Tai"
+    },
+    {
+      "nome": "ASPRAEC ASSOCIACAO DE PRODUTORES RURAIS DO ASSENTAMENTO ELDORADO DOS CARAJAS",
+      "id": 79,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1jvmboG1iZWUbcc6L6SxsnpqG6fG7fYga"
+    },
+    {
+      "nome": "ASSOCIACAO COMUNITARIA NA LUTA POR JUSTICA",
+      "id": 80,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=11ReySRwkm-rgigEeEv6uT_ZLD843FCdm"
+    },
+    {
+      "nome": "ASSOCIACAO POVO EM ACAO VIDA SUSTENTAVEL",
+      "id": 81,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1XUQ6K7enw17bDXyFRDit750oqzPpNT86"
+    },
+    {
+      "nome": "CENTRO DE FORMACAO POPULAR FREI BETTO",
+      "id": 82,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=10AR4rdo0KCQv5abg6tOXbAW-2WuryIil"
+    },
+    {
+      "nome": "CENTRO DE PROMOCAO RESGATE E CIDADANIA GRAJAU PAULO VI",
+      "id": 83,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1L6xzuFM9YZq7JO0jrtyKCjfyCpCcqr-5"
+    },
+    {
+      "nome": "ASSOCIACAO ESTRELA GUIA DOS MOVIMENTOS DE MORADIA DA REGIAO SUDESTE",
+      "id": 84,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1di1QNdWF9or2LgVzrMzBKOXa0NGRz09c"
+    },
+    {
+      "nome": "ASSOCIACAO DOS TRABALHADORES SEM TETO DA ZONA NOROESTE",
+      "id": 85,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1WpNGx_E6gjN2BR6nURYttlIHKVWx6gE2"
+    },
+    {
+      "nome": "ASSOCIACAO DOS TRABALHADORES SEM TERRA DA ZONA OESTE",
+      "id": 86,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=13tSlTGUCqMgq-QARjX_UIzMpYMoMWf7_"
+    },
+    {
+      "nome": "ASSOCIACAO CANTINHO DA PAZ E SONHOS",
+      "id": 87,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=132YEeIbbnbe1qpO2n0hK4h6W3txhNjSe"
+    },
+    {
+      "nome": "ASSOCIACAO NACIONAL COMUNITARIA DE MAES E AMIGOS DA CRIANCA E DO ADOLESCENTE AMAR NACIONAL",
+      "id": 88,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=13wjqZ6Iz-VxB2GzoUWa5rebrYBiVx3DH"
+    },
+    {
+      "nome": "ONG ACAO COMUNITARIA CIDADAO DO AMANHA",
+      "id": 89,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=18tZbJxCyBPOOiWX_LKvcowxb0GXRkW6j"
+    },
+    {
+      "nome": "MOVIMENTO CULTURAL CIDADE TIRADENTES",
+      "id": 90,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1sSN5odAVCg3Z4pty9PTTOgzqu5ubwCyN"
+    },
+    {
+      "nome": "ASSOCIACAO CULTURAL DE EDUCACAO LAZER E VIDA",
+      "id": 91,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=11Yv7Cj0gFzlWsLMBQwznGipVmyY2bSFP"
+    },
+    {
+      "nome": "ASSOCIACAO UNIAO DA JUTA",
+      "id": 92,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1TF4-l4vDPdnX01Y53PAsv3HcsPbbM2Zp"
+    },
+    {
+      "nome": "ASSOCIACAO DOS MORADORES DA COMUNIDADE DO JARDIM LIMOEIRO I",
+      "id": 93,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1j1WR54gmb2tmAmRlrlf_i0aEklGJ1PQr"
+    },
+    {
+      "nome": "INSTITUTO DE INCLUSAO E RESPONSABILIDADE SOCIAL SE LIGA",
+      "id": 94,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1nGJNjQcm7aUL4pFuHnZOmSm7H40kcO5F"
+    },
+    {
+      "nome": "ASSOCIACAO CULTURAL E COMUNITARIA PEDRA QUE CANTA",
+      "id": 95,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=19Sn6N-bXuv6LpU2QMkB5kSQj6Yq1M5jM"
+    },
+    {
+      "nome": "ASSOCIACAO APOIO A MAES DE ESPECIAIS INSTITUTO AME",
+      "id": 96,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1PRLwT2AU9Cgv_3kiigtOem5ZdaIKjF3J"
+    },
+    {
+      "nome": "ASSOCIACAO GREMIO UNIDOS JOSE BONIFACIO",
+      "id": 97,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1la6HTyinGArYBI0mzroetCeQ_MDOFqbn"
+    },
+    {
+      "nome": "ASSOCIACAO VIDA CARRAPICHO",
+      "id": 98,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=19SzpRUfFCu7Oo-tnoo9fI5m6jrjlrd88"
+    },
+    {
+      "nome": "ONG ESPERANCA VIVA",
+      "id": 99,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=12QjAcTKymE60ZDhtfCkOwFdmsXVoqe5Z"
+    },
+    {
+      "nome": "INSTITUTO FOLHA DA MATA",
+      "id": 100,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1aQz7sDSdWbxaEqBs3uDZwRvLpiI7elaa"
+    },
+        {
+      "nome": "ACAO COMUNITARIA PAROQUIAL DO JARDIM COLONIAL PE EMIR RIGON",
+      "id": 101,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Bag2J1eFQ-KrNtfBT0t2uUTeQ4triuQP"
+    },
+    {
+      "nome": "PRODICA CAMPO BELO E REGIAO CAMPINAS SP",
+      "id": 102,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=16BHeFg0-r2exsps2eHowY5ErgfaXyYcX"
+    },
+    {
+      "nome": "ASSOCIACAO CIDADANIA ATIVA DO MACEDONIA ACAM",
+      "id": 103,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1q6tEit5Q9B4PQyB5L_pyfI_44-UHrOPL"
+    },
+    {
+      "nome": "ASSOCIACAO SOCIOEDUCATIVA E CULTURL PROJETO ALAVANCA BRASIL",
+      "id": 104,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1-QgJIgg95ZHR1k-DRroTemczZM4x9jAm"
+    },
+    {
+      "nome": "CENTRO DE EDUCACAO DA ZONA LESTE PROJETO MOVA",
+      "id": 105,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=137nn-2GNI2L-Mg5b0wa9mz7lgv3G1rqo"
+    },
+    {
+      "nome": "ASSOCIACAO FILANTROPICA SANTA CLARA DE VILA ROSINA",
+      "id": 106,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1S_uLrXSS1NzLjzf_P44Ohj3U0CNjvlcp"
+    },
+    {
+      "nome": "ASSOCIACAO PRO MELHORAMENTOS DE VILA PREL",
+      "id": 107,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1kOkFbP405h78Y1O7OZlO7IyxBTPKwXmZ"
+    },
+    {
+      "nome": "CENTRO DE EDUCACAO POPULAR DA COMUNIDADE NOSSA SENHORA APARECIDA",
+      "id": 108,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Hyh_LCcW7PJQSMdwIXxlRvYFvUEzW7HC"
+    },
+    {
+      "nome": "SOCIEDADE AMIGOS DO PARQUE GALICIA",
+      "id": 109,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1lJPd6vtdE10ea2pkmQJQK_86GO_NGvoO"
+    },
+    {
+      "nome": "ASSOCIACAO BRASILEIRA DE APOIO A CULTURA ESPORTE E MEIO AMBIENTE ABRACEM",
+      "id": 110,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1asU4P3Uirf6EMvYzhgKSSamxZiWUFs2T"
+    },
+    {
+      "nome": "ASSOCIACAO VITORIOSOS D KEBRADA",
+      "id": 111,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1j9nCL0iQmJVjQ24Id_G7ew5E9CGOKpnS"
+    },
+    {
+      "nome": "ASSOCIACAO COMUNITARIA LUTAR RESISTIR E VENCER",
+      "id": 112,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=13uoLWlOgnUk9qJS6xVgh2o4VQlkdOdoR"
+    },
+    {
+      "nome": "ASSOCIACAO EM DEFESA DE DIREITOS HUMANOS E INCLUSAO SOCIAL",
+      "id": 113,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1W1whg1qzDgWrySY2d2V2pnejQMJFi7XR"
+    },
+    {
+      "nome": "ASSOCIACAO DE DEFESA DE DIREITOS",
+      "id": 114,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1cp4aPTvd627kbjbYmRboPI5wgB-rdS6-"
+    },
+    {
+      "nome": "ASSOCIACAO PORTAL DA JUTA 1º DE MAIO",
+      "id": 115,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Jr9uG9QjMtnKZ3Nx2R2CYZLyflx3oiLl"
+    },
+    {
+      "nome": "ASSOCIACAO MORAR E PRESERVAR CHACARA DO CONDE",
+      "id": 116,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1DMUE7-wHh66O_oXfu2neSmsI0q0AQT1y"
+    },
+    {
+      "nome": "ASSOCIACAO CASTRO DE LUTA POR DIREITOS HUMANOS E ASSISTENCIA SOCIAL",
+      "id": 117,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1VY6HaiPBPkBCEM4Lsq30WlxcNwNNojpT"
+    },
+    {
+      "nome": "ASSOCIACAO DE MORADORES DO CONJUNTO HABITACIONAL CASA BRANCA",
+      "id": 118,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1kClpLJsCusXGaD-02Ol2P28dPtSZvtiI"
+    },
+    {
+      "nome": "ASSOCIACAO NA LUTA IDE",
+      "id": 119,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1i2lJCf9mvbsdZ0o0ufmAW6x3l3cIRBUh"
+    },
+    {
+      "nome": "INSTITUTO DE EDUCACAO E CULTURA ALUTHA",
+      "id": 120,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1UDPzaQuacmxRqzMsyF3W9U-9PwvNq8uP"
+    },
+    {
+      "nome": "ASSOCIACAO SEMEANDO E COLHENDO EDUCACAO HABITACAO SAUDE E VIDA",
+      "id": 121,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=14ScJjb5Mwf_UzAibLnaa9_lmRxAKDkaZ"
+    },
+    {
+      "nome": "MOVIMENTO QUERO UM TETO CENTRAL",
+      "id": 122,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1geT06E1xqJarqvNLX7EcTpv1if0wEgxI"
+    },
+    {
+      "nome": "ASSOCIACAO BENEFICENTE ESTRELA DALVA DE HELIOPOLIS",
+      "id": 123,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Oe8VgaNMMBJOJmJoWiic1Vz0hZCby5qH"
+    },
+    {
+      "nome": "ASSOCIACAO AMIGOS DO JARDIM IPANEMA",
+      "id": 124,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1_zppzlGDMA7Bkk_TCHbhP41ZnNenJPpU"
+    },
+    {
+      "nome": "IGREJA CRISTA EVANGELICA MINISTERIO FIRMEZA NA VERDADE",
+      "id": 125,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1gfc89sBPAR3Hjv7j-5FP7NTHkL3qMeoH"
+    },
+    {
+      "nome": "ASSOCIACAO SORRISO",
+      "id": 126,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1yfKXfVesEq0SGGavEIapzP97xX6yIOGS"
+    },
+    {
+      "nome": "CENTRO DE EDUCACAO POPULAR AMBIENTAL E INTEGRACAO SOCIAL CEPAM",
+      "id": 127,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=14I-hAutwNNycjFo0O45hug5QWUPweUJp"
+    },
+    {
+      "nome": "ASSOCIACAO DOS MORADORES DO JARDIM VIRGINIA ITAJUIBE",
+      "id": 128,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1j1BQ4SbBsxRNFjncEfVC8UY1sEjzjXRt"
+    },
+    {
+      "nome": "ASSOCIACAO BENEFICENTE NOVA ESPERANCA JARDIM DAS OLIVEIRAS",
+      "id": 129,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1nkbeJqtp6ijpVTNSil-mClUzgl1UpET2"
+    },
+    {
+      "nome": "ASSOCIACAO INDIGENA DA REGIAO DO MUNDO NOVO AIRMUN",
+      "id": 130,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1s2-m84T38ya_MOc7MD3u9bAhktV0tLVW"
+    },
+    {
+      "nome": "ASSOCIACAO PERIFERIA SEM FRONTEIRAS",
+      "id": 131,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1rDvmbaNZUHayk-Cg7seUil3TmM-t7Cqu"
+    },
+    {
+      "nome": "ASSOCIACAO INDIGENA SOS COMUNIDADE INDIGENA PANKARARU",
+      "id": 132,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1_pCN6RBO7nFLUHePeDi28ij81ggErb25"
+    },
+    {
+      "nome": "ASSOCIACAO ARTE NATIVA INDIGENA",
+      "id": 133,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1-62zmhQHFm85wnM25bGHF1ZLM0XxZRK-"
+    },
+    {
+      "nome": "ASSOCIACAO BENEFICENTE E ESPORTIVA APOCALIPSE",
+      "id": 134,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1DiiQZCpI6ZbGMY5Dkf3rlCZwXhRk_4eS"
+    },
+    {
+      "nome": "ASSOCIACAO MAOS QUE CUIDAM",
+      "id": 135,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1osOYYJj5c3bMhrSoaMifZtW_PPRwdZ41"
+    },
+    {
+      "nome": "ASSOCIACAO INSTITUTO COMUNIDADE UNIDA CAMINHO E AMOR",
+      "id": 136,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Vtk_9Ow5MMi-W4-TW0vtCBbpnzcU7bPN"
+    },
+    {
+      "nome": "ENSINAPREV INSTITUTO NACIONAL DE EDUCACAO E PREVENCAO AS DROGAS",
+      "id": 137,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1vFhwtq1PC77-fw1jHVlVMFX6c048O4mt"
+    },
+    {
+      "nome": "ASSOCIACAO ACAO GUETO",
+      "id": 138,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Ebe5CYkGoBHKjGWRd5f-GqAMvIQnHwRX"
+    },
+    {
+      "nome": "ASSOCIACAO UNIAO MORRO DA LUA",
+      "id": 139,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Xc_fO5ImSQjYcyS5KPzPwtA258qEkydh"
+    },
+    {
+      "nome": "ASSOCIACAO PROJETO GERANDO FRUTOS",
+      "id": 140,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1IuZXaaYrsssgcoJkhrS9oriamrSRS7FV"
+    },
+    {
+      "nome": "CENTRO DE DESENVOLVIMENTO SOCIAL EDUCACIONAL E CULTURAL BEM ME QUER",
+      "id": 141,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1W52ednBFNLM4757YGWcP2ypiXgj6uqD5"
+    },
+    {
+      "nome": "ASSOCIACAO DE APOIO AS MENINAS E MENINOS DA REGIAO SE",
+      "id": 142,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1sFz4Y9QE7R3Fyz77vtMi_2q78qLvk8MM"
+    },
+    {
+      "nome": "INSTITUTO BENEFICENTE BEIRA RIO",
+      "id": 143,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1aweWPt8DMUt8yvmOX7imwjfgQ2aw_M3r"
+    },
+    {
+      "nome": "INSTITUTO SOCIAL SONHAR E VIVER",
+      "id": 144,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1an4EpxmN9M8v-r2ZWtGJ58dgQSgErVH-"
+    },
+    {
+      "nome": "ASSOCIACAO COMUNITARIA FAZENDINHA OSASCO",
+      "id": 145,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=17fPCbAYC5SlnZtb6XaIqlfOtwkFpEJdn"
+    },
+    {
+      "nome": "AMURV ASSOCIACAO DOS MORADORES UNIDOS DO RIBEIRAO VERMELHO",
+      "id": 146,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1CfEzhRDyD0qg-tD14F1F1KqkLSBtAMWe"
+    },
+    {
+      "nome": "ASSOCIACAO COMUNIDADE DO PUMA EM ACAO VILA ANDRADE",
+      "id": 147,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1j1sCZvtyNroQckrBCn9yZTd_YGgjga9k"
+    },
+    {
+      "nome": "ASSOCIACAO PRACA JOAO PAIS MALIO",
+      "id": 148,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1ET_BCXs5Z3xK_7MwXgK-P6T5dTu50SaI"
+    },
+    {
+      "nome": "ASSOCIACAO PRO MORADIA UNIAO E VIDA",
+      "id": 149,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1WdnkQA9MbZBO2k0lyhdPCDLCKKYnoS4b"
+    },
+    {
+      "nome": "AMAJU ASSOCIACAO DE MORADORES E AMIGOS DO JARDIM JULIETA",
+      "id": 150,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1P4WK2HJTCKqn_Ht6yaRhvRUxnoZBF6_X"
+    },
+    {
+      "nome": "ASSOCIACAO QUEBRADA ALIMENTADA",
+      "id": 151,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1FBqcKwzVednvMqQz74wMUNAV94JLTnca"
+    },
+    {
+      "nome": "OFICINEIROS DA NOVA GERACAO",
+      "id": 152,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1YHpdb5NGQYyFPtjNsqmmNrgane8UFu9G"
+    },
+    {
+      "nome": "INSTITUTO A NOSSA JORNADA",
+      "id": 153,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1vh-A4A0M2ClEfwgCFg_f10H54SoDP_4j"
+    },
+    {
+      "nome": "ASSOCIACAO DE MORADORES FILZAO DE AMERICANOPOLIS E ADJACENCIA",
+      "id": 154,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=14irm6JXZyNjPhreRgCE2dr1nZP_ZPhKa"
+    },
+    {
+      "nome": "INSTITUTO SOCIAL VILA CAIZ",
+      "id": 155,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Rbzc-G9JUDYkCtkMJwtVZl6vWURdcgxA"
+    },
+    {
+      "nome": "ACEB ASSOCIACAO CULTURAL ESPORTIVA E BENEFICENTE",
+      "id": 156,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1zfoB84c3akRDOe02uTUOBruIk-LglnWF"
+    },
+    {
+      "nome": "ASSOCIACAO SAMBA DA ESQUINA GRAJAU",
+      "id": 157,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1LkyRScoc54yat9PSW7j7zZzTd16Z635S"
+    },
+    {
+      "nome": "ASSOCIACAO IMARGEM",
+      "id": 158,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=17M-yil_sIGLKa0qLRf3EVUhtHm792lLZ"
+    },
+    {
+      "nome": "ASSOCIACAO GUARAUNA DE ARTE E CULTURA",
+      "id": 159,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1mMNvLKU_QGligCvTVxb7DyeQpvcoVAB7"
+    },
+    {
+      "nome": "CENTRO DE DEFESA DOS DIREITOS DE CRIANCAS E ADOLESCENTES DE INTERLAGOS CEDECA INTERLAGOS",
+      "id": 160,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1KFMzYOuqniOZFy4UncGHr6tvpxCIOdwr"
+    },
+    {
+      "nome": "PROJETO SOCIAL M BANZA",
+      "id": 161,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1FZ-IZ3w6NvqklJTWMcayWr1ebc3lJuay"
+    },
+    {
+      "nome": "INICIATIVA NEGRA",
+      "id": 162,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1cVTqCkTRJsUBSTzXAgRf3wIoAsSwp6Jz"
+    },
+    {
+      "nome": "CEDECA SAPOPEMBA",
+      "id": 163,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=12TzHz7VsUq7zk7_6L4rFsb1aYHcQMcTQ"
+    },
+    {
+      "nome": "INSTITUTO ATUARTE E INSTITUTO FLOR DE VENTO",
+      "id": 164,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1sP1-qjh0F_6ZxYbBTKG7RzTfGmkREZtl"
+    },
+    {
+      "nome": "ASSOCIACAO DO JONGO DITO RIBEIRO",
+      "id": 165,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=13owvxk7zWeqqmAgsF1PV68r2Z26iFJTp"
+    },
+    {
+      "nome": "INSTITUTO FORMIGUINHA",
+      "id": 166,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1IHZquBP_h2ySL84Lzl_3Zl3B0yl4kIQc"
+    },
+    {
+      "nome": "ASSOCIACAO COZINHA SOLIDARIA DE RIO CLARO AMOR ARTE",
+      "id": 167,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=194NrBVnMHizMh-rIlm-E1Ei7o2ZLaQir"
+    },
+    {
+      "nome": "ASSOCIACAO MACEDO MACEDOS BOXE RIO CLARO",
+      "id": 168,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1u8kpRyS155gElwnRuYGfdpAh0X3ZuDlp"
+    },
+    {
+      "nome": "ASSOCIACAO BOA ESPERANCA",
+      "id": 169,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1fn-LSHULuWl3qVyu7UlAuAFhdG6ni_4J"
+    },
+    {
+      "nome": "ASSOCIACAO ATLETICA BOA VISTA",
+      "id": 170,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1w3reqbQQ9sBhn4sD7dT6X_E2tzz4LEeV"
+    },
+    {
+      "nome": "CENTRO DE CULTURA E EDUCACAO ESPACO SALUTAR",
+      "id": 171,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=16H24eCcSH5DlkLP_19ULUlF0IVqjDalk"
+    },
+    {
+      "nome": "CINECLUBE CAUIM",
+      "id": 172,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=15FcmpSU9FaQV8tBV8TS41f7OIPguY23p"
+    },
+    {
+      "nome": "INSTITUTO IE ARUANDE",
+      "id": 173,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1iypMCau4GLUobfUn2bsKoFLbafZ9_BNf"
+    },
+    {
+      "nome": "ASSOCIACAO DE COMBATE A AIDS INFANTIL ACAI",
+      "id": 174,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1LlJs1tDFxG9X_aHt_fy0BuhkUsR6i9r4"
+    },
+    {
+      "nome": "CEDECA LIMEIRA DAVID ARANTES",
+      "id": 175,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1k5EswJ-181aWXIMBUceDykQDLWxNsTWJ"
+    },
+    {
+      "nome": "PROGRAMA DE ATENDIMENTO E INTEGRACAO",
+      "id": 176,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1IkyFOHQ2huJ2Pc5XLDQ9eyPEpNtzzssv"
+    },
+    {
+      "nome": "ASSOCIACAO COMUNITARIA SOCIOCULTURAL CASA ANA ROSA",
+      "id": 177,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1-ZnhW__yjOsfVKNM7A1vmus-0jP-Lmx1"
+    },
+    {
+      "nome": "CLUBE FLOR DE MAIO GREMIO RECREATIVO FAMILIAR FLOR DE MAIO",
+      "id": 178,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1UvDiTEytoQBqGox8jpvcOOSkcxbl43sU"
+    },
+    {
+      "nome": "ASSOCIACAO SAO CARLENSE DE FUTSAL",
+      "id": 179,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1xIIfFYKw1Oa1NDzCJtHraArFXzcYfYT4"
+    },
+    {
+      "nome": "ASSOCIACAO COMUNITARIA E CULTURAL DO JARDIM JOVAIA",
+      "id": 180,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1EOjtgSAWJeKxdtp2hzexIMmpKSsgkdPi"
+    },
+    {
+      "nome": "ASSOCIACAO DE ARTES MARCIAIS OKINAWA KARATE",
+      "id": 181,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1dlMKtK2wMj5bWmG3R-gXh4xQFOngyAdS"
+    },
+    {
+      "nome": "CIA PASSARINHAR",
+      "id": 182,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1I7LbHTFxHGf437EmkPfR09H_0EWM8eMI"
+    },
+    {
+      "nome": "ASSOCIACAO DE AUXILIO MUTUO DA REGIAO LESTE",
+      "id": 183,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=12XS_JW77qb89A8FHSLZIXp5Hd3FXU1vr"
+    },
+    {
+      "nome": "ASSOCIACAO BRILHO DO AMANHECER",
+      "id": 184,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1n12JNRbZv2NQVbabcsTjDUOhYEtjc9tT"
+    },
+    {
+      "nome": "INSTITUTO RAINHA DA PAZ SITIO CONCEICAO",
+      "id": 185,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1wAZKAQWq6UMP7P1Zg3IN4W5B7w_clXgA"
+    },
+    {
+      "nome": "COMPANHIA TEATRAL E DE EVENTOS RECREATIVOS E SOCIAIS PAPO CABECA",
+      "id": 186,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1jKjQNnhfXWAFBpfS1M9bDGzx9J5A32eJ"
+    },
+    {
+      "nome": "ASSOCIACAO FIBRAS DA SERRA",
+      "id": 187,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1sqmH6uxhR1dWqw-wW_oV-pJ03hoRLGAw"
+    },
+    {
+      "nome": "ASSOCIACAO INSTITUTO NOSSO ESPACO NUCLEO DE ATENDIMENTO E SUPORTE A COMUNIDADE",
+      "id": 188,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1FKxZC6g0v1js2xSEvFHy_s6i5dJRkWLd"
+    },
+    {
+      "nome": "PROJETO MENINOS E MENINAS DE RUA",
+      "id": 189,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=11o-XOo6I_thP4anbLxFrg2DWnwWTwVT1"
+    },
+    {
+      "nome": "CENTRO CULTURAL AFRO BRASILEIRO FRANCISCO SOLANO TRINDADE",
+      "id": 190,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1U85_aqlOlSq2DblxyZ0Wml5BvFMrpU4P"
+    },
+    {
+      "nome": "COOPACESSO COOPERATIVA DE TRABALHO ACESSO CULTURAL EDUCACIONAL SUSTENTAVEL SOLIDARIA",
+      "id": 191,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1bGdtEFIygTCqUWqho9mA6VICbN7Puy0M"
+    },
+    {
+      "nome": "CENTRAL PRO MORADIA SUZANENSE CEMOS",
+      "id": 192,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Nzi7f0ofMJ4meqkwf5Nd2K8i06uiPVIY"
+    },
+    {
+      "nome": "ASSOCIACAO CULTURAL AFROBRASILEIRA ACAFRO",
+      "id": 193,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1hvdS3G4o3zkAQTKB36sX1dT1TxxMkHXB"
+    },
+    {
+      "nome": "CENTRO INTEGRACAO SOCIAL CAMPO BELO",
+      "id": 194,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1ONvt48MtD5lMnuhRyh2skxpX7z0izYyz"
+    },
+    {
+      "nome": "ASSOCIACAO DE PROMOCAO HUMANA E RESGATE DA CIDADANIA ASSOCIACAO PADRE LEO COMISSARI",
+      "id": 195,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1tztfyBPkBUInZc9hHcDjkJoa8hTf_7kH"
+    },
+    {
+      "nome": "OCA ALDEIA DE CARAPICUIBA",
+      "id": 196,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1PG7cW7VvMbtWXQf5PD5i47tZ70EMeNFm"
+    },
+    {
+      "nome": "INSTITUTO MULHERES DO GRAJAU",
+      "id": 197,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1gwrWn3rNDFkR8LHVJCyYvZWPxPzg_4g6"
+    },
+    {
+      "nome": "ESCREVENDO NA QUEBRADA ZONA SUL",
+      "id": 198,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1YTrxR421XaYUModX5B_2SUfF_8WWYOiK"
+    },
+    {
+      "nome": "PROJETO ARRASTAO ZONA SUL CAMPO LIMPO",
+      "id": 199,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1_K8inmTFPto6kVUPsPKdh6udzS7IFxr9"
+    },
+    {
+      "nome": "ASSOCIACAO REDUCA",
+      "id": 200,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1IuqtKowSB1TTQdPhjxe9737DEvmRwSky"
+    },
+        {
+      "nome": "OPOCA ASAS ASSOCIACAO SAO MIGUELENSE PARA SUSTENTABILIDADE",
+      "id": 201,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1LCeU_OHCSewxN2xp6PhjCyRf8B4VlOqs"
+    },
+    {
+      "nome": "CENTRO DE INTEGRACAO SOCIAL CURUMIM",
+      "id": 202,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1smae-NZZZFZtfmu7slaGRRhozocXF0Q7"
+    },
+    {
+      "nome": "CASA BEIJA FLOR",
+      "id": 203,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1smHuKVlowXVfYBSBk69SNqRhiXJUaJTj"
+    },
+    {
+      "nome": "ASSOCIACAO DOS MORADORES DO JARDIM RUBILENE",
+      "id": 204,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1BwdjWdcANOCSYlUo7B6BsR8KD74v8GcW"
+    },
+    {
+      "nome": "INSTITUTO RAIZES DO FUTURO",
+      "id": 205,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=19YcO-Gxn-ZdJDZU3ZNUCmfRDMfPlzEMH"
+    },
+    {
+      "nome": "OSIL ORGANIZACAO SOCIAL IRENE LOPES",
+      "id": 206,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=19H5njshf07ZbeLPuOt3xSSQkSpD0MXhD"
+    },
+    {
+      "nome": "ASSOCIACAO DE CAPOEIRA AROEIRA",
+      "id": 207,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1irG4jsZVOxqTH83jBH-quRIzrW3_LcYV"
+    },
+    {
+      "nome": "ASSOCIACAO CULTURAL E EDUCACIONAL POSSE MENTE ZULU",
+      "id": 208,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1mfKHL96OxUC7lg3-l0pb1JQN-XkacjX4"
+    },
+    {
+      "nome": "INSTITUTO ABAYOMI DE DIREITOS HUMANOS IADH",
+      "id": 209,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1YJ4_iYCEHvUaWDz-yQ3KNtI_hqOjugiY"
+    },
+    {
+      "nome": "ASSOCIACAO CULTURAL BECOS E VIELAS",
+      "id": 210,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1c5XBY5GPmd4FtJiMWEJElMbPt3oakBQ7"
+    },
+    {
+      "nome": "ASE ALAKETU ILE IYA ORISU",
+      "id": 211,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1azOFw3ng2D4OHbjCkIUX0CdkM2hWN-0k"
+    },
+    {
+      "nome": "TEMPLO AFRO BRASILEIRO ILE ASE XANGO",
+      "id": 212,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1j3IhjqHfdQl1HL51gd76iZ_TOnsUuxbA"
+    },
+    {
+      "nome": "UNEGRO EMBU GUACU",
+      "id": 213,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1MSGVrOQPWyQfTWPFf3HoY-fDwB2HVjod"
+    },
+    {
+      "nome": "ILE ASE ODO FADAKA",
+      "id": 214,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1-PzxvJHN5TbdgxA5ytsb32vYmXwCU2MF"
+    },
+    {
+      "nome": "UNIVERSIDADE ZUMBI DOS PALMARES",
+      "id": 215,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1dqr-A0pfSYdAFD7DEF-_k3PMDKJ_r6kY"
+    },
+    {
+      "nome": "ASSOCIACAO DOS SAMBISTAS TERREIROS E COMUNIDADES DE SAMBA DE SAO PAULO ASTEC",
+      "id": 216,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1XGt0oCg0OkQbqQDsJcwMwmKUCERhNjfD"
+    },
+    {
+      "nome": "ASSOCIACAO DOS MORADORES DO CONJUNTO HABITACIONAL CAMPANHA GAUCHA",
+      "id": 217,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1OSfRsI_XYGQpjic3zf3rHEVf1C0Gm9Mv"
+    },
+    {
+      "nome": "ASSOCIACAO EDUCACIONAL CULTURAL E BENEFICENTE ILE OYA SINA",
+      "id": 218,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1p-8PA-2eViRu6TGn4brsYqvD67mRwN5v"
+    },
+    {
+      "nome": "CENTRO CULTURAL DE MATRIZ AFRICANA ILE AXE OYA GUERE OBA BAAYONNI",
+      "id": 219,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1y-uUMxNfue4iczDok3cSZ6h1WrOmWozy"
+    },
+    {
+      "nome": "CENTRO ESPIRITA DE UMBANDA TROVAO DE LUZ",
+      "id": 220,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1ZDMy9WxRrxjJaPhdvXfOR_qdMmNMABI-"
+    },
+    {
+      "nome": "CENTRO CULTURAL OBADARA AFRICANIDADE",
+      "id": 221,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1J3tfQAI-YtT1JMHBxylhrTXcW0fK1kwf"
+    },
+    {
+      "nome": "ASSOCIACAO DA COMUNIDADE DOS REMANESCENTES DE QUILOMBO DA FAZENDA ACRQF",
+      "id": 222,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1cGCmUsR_IG2mRf5Fr9xIh3H_QBuB6ShM"
+    },
+    {
+      "nome": "INSTITUTO BENEFICENTE TRANSFORMACAO E VIDA",
+      "id": 223,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1rRFD6DymWNjr7HVgyd7bLr3tkx318ATq"
+    },
+    {
+      "nome": "PONTO DE CULTURA OFICINATIVA AFROESCOLA",
+      "id": 224,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1pWmesCLa7MwH8mI5fI1l-dYlWbgLniZw"
+    },
+    {
+      "nome": "ASSOCIACAO GIBI ESPORTE E EDUCACAO",
+      "id": 225,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1jg8hTkLT_2GcbgfkEm7AYGOOd8YFNy7P"
+    },
+    {
+      "nome": "ILE OBA KETU AXE OMI NLA",
+      "id": 226,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1x_a1JCk-H3RHen7otGb-bAAPkSzFu1Dz"
+    },
+    {
+      "nome": "ONG ALIMENTO SIM FOME NAO",
+      "id": 227,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=13tcnvOqJpRbC79iC746J5SmS0O_kIxXg"
+    },
+    {
+      "nome": "ASSOCIACAO EDUCACIONAL E CULTURAL FILHOS DE LAZARO",
+      "id": 228,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1JXB6PVTOr4Xmit8euhI8hwEr2nI7Ouuz"
+    },
+    {
+      "nome": "INSTITUTO ESPELHO ESPELHO MEU",
+      "id": 229,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1-odcL1xMWhValsBvuBlha_VSzc1o-5Na"
+    },
+    {
+      "nome": "CIA MISTURA DA RACA",
+      "id": 230,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Hr1OAGGusG3JK2WTdxPfX6mH78i0tkrW"
+    },
+    {
+      "nome": "SECRETARIA MUNICIPAL DE CULTURA E ECONOMIA CRIATIVA",
+      "id": 231,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1O96J6TeZXL9wk6YC87lPXV7EhaE7V0cy"
+    },
+    {
+      "nome": "ASSOCIACAO DOS REMANESCENTES DE QUILOMBOS DOS BAIRROS RIBEIRAO GRANDE TERRA SECA",
+      "id": 232,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1i2LqFzdy8SzbTTS_IZ7U8lMfJebH_dnG"
+    },
+    {
+      "nome": "TENDA DE UMBANDA E CANDOMBLE FORCA DE IANSA",
+      "id": 233,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1B3SK-liLrtedivR6E6mmWARTgEFuOhN5"
+    },
+    {
+      "nome": "ASSOCIACAO CULTURAL DESPORTIVA DE JACAREI",
+      "id": 234,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1e0PAv55w9aG0i-aSWu3pbf1FKvAWAX8K"
+    },
+    {
+      "nome": "CAPOEIRA ESPECIAL",
+      "id": 235,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1fUuYFPL0nGkO0zBDsBBIShHJeE4tFbZW"
+    },
+    {
+      "nome": "ARQC RENASCENTE QUILOMBO DE CAPIVARI",
+      "id": 236,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=17lrpl_KxjZsYw1PzLBgTPXDutl7eFx6g"
+    },
+    {
+      "nome": "ASSOCIACAO REMANESCENTE DE QUILOMBO DA BARRA DE SAO PEDRO DO BAIRRO GALVAO",
+      "id": 237,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1ClWc_Jjic3VAD61-IMEuNlpUM09N15bN"
+    },
+    {
+      "nome": "ASSOCIACAO ILE ASE ALAKETU ODE MORE",
+      "id": 238,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1ILe_WAaU_2_RsdmFcs5lA0ORb2O4-ym9"
+    },
+    {
+      "nome": "ASSOCIACAO CULTURAL ALIANCA NEGRA POSSE 1988",
+      "id": 239,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1eA7L_de-VJs5IJRrhCJIVRXj6K0YPnbA"
+    },
+    {
+      "nome": "ONG ABAYOMI EM PROL DOS PEQUENINOS",
+      "id": 240,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1iYcJXWH26fd0M9mIPGBZ4pKJklurCzjy"
+    },
+    {
+      "nome": "GRUPO GERACAO CAPOEIRA",
+      "id": 241,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Gr12WiAjJjBaUOWxcd_RteZ0eZ7WtafX"
+    },
+    {
+      "nome": "INSTITUTO SOCIAL E CULTURAL TUPA",
+      "id": 242,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=19xWbX2Hi2aWxjJcrs4V3rLpl2X7u7Zax"
+    },
+    {
+      "nome": "ASSOCIACAO FORUM MOGIANO LGBTI",
+      "id": 243,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Vq9D0HUB40fb_gfAvLyjnYtLhlc-Iez1"
+    },
+    {
+      "nome": "CASA NEON CUNHA",
+      "id": 244,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1TdAvT1uj_CqVx8ds4QZpIrNwrBx6DQr6"
+    },
+    {
+      "nome": "ASSOCIACAO DIVERCIDADES PERIFERIAS",
+      "id": 245,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1ZwQOeSImPhqk1OFMNQtV2yPCOqLLoecl"
+    },
+    {
+      "nome": "ASSOCIACAO CURSINHO POPULAR MAIO DE 68",
+      "id": 246,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1eFdDQAdzNcW6grtOPgQMRaYGaa2jXgqG"
+    },
+    {
+      "nome": "ASSOCIACAO DE MULHERCIDADES TRANSEXUAIS E TRAVESTIS AMTT",
+      "id": 247,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1psqfgqDeUgYer8p-4jFA4SvOO3GqsCnl"
+    },
+    {
+      "nome": "ONG SOL SOLIDARIEDADE OPORTUNIDADE E LUZ",
+      "id": 248,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1m6OjrafQp5M-I4WDItGLARAaI6jW2eDU"
+    },
+    {
+      "nome": "INSTITUTO ALDEIA DE BARUERI",
+      "id": 249,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1vRcDanFPuLZ_9zhpUNJyIjawurxO-fL_"
+    },
+    {
+      "nome": "ILE MAROKETU ASE OGUM",
+      "id": 250,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1G2wCKJIRJH_d7wN_SUBUAM8iGu6scsrD"
+    },
+    {
+      "nome": "ASSOCIACAO BENEFICENTE CULTURAL E RELIGIOSA CASA DE CULTO AFRO BRASILEIRO ILE ASE SOBO OBA ARIRA",
+      "id": 251,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1JGq-2DPL0cKJwlrTxQPPbhWeptMfUXT1"
+    },
+    {
+      "nome": "ASSOCIACAO PLURALIS EM DEFESA DA DIVERSIDADE E RESPEITO HUMANO",
+      "id": 252,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=12sAjFFJJtyiogqAuHzomSqhReRjl2ODg"
+    },
+    {
+      "nome": "INSTITUTO BRASILEIRO DE ESTUDOS E APOIO COMUNITARIO IBEAC",
+      "id": 253,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1thUtgvIhhGKZpdXuaZw26SGU-OUMHwbZ"
+    },
+    {
+      "nome": "CONFEDERACAO NACIONAL DOS PESCADORES E AQUICULTORES CNPA",
+      "id": 254,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1NM7ZovoUz5xjQOSm45ofiTb4eOeOEuqV"
+    },
+    {
+      "nome": "ASSOCIACAO DE PESCADORAS E MARISQUEIRAS DO PORTO DO MATO APMPM",
+      "id": 255,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1vf5pg126oz90V5lhwl1VB8SznOgPdVy5"
+    },
+    {
+      "nome": "CNPCT ONG VIDA SURF",
+      "id": 256,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1wkCbfT10BfL2o0iMOQJH-GPbeAqtKH3z"
+    },
+    {
+      "nome": "PIMP MY CARROCA",
+      "id": 257,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1HvcDPS8bRE9l-QMT6debsiuXaWzbQrzF"
+    },
+    {
+      "nome": "ASSOCIACAO CULTURAL E EDUCACIONAL LELIA GONZALEZ",
+      "id": 258,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1OB8kp76MTp2eZErstslN6zNftET9Rwab"
+    },
+    {
+      "nome": "ASSOCIACAO CIDADE PARA TODOS",
+      "id": 259,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1HSkOdN3YPXYJ5TPmgn11QanliYrK_QOp"
+    },
+    {
+      "nome": "ASSOCIACAO EM DEFESA DA ECONOMIA POPULAR",
+      "id": 260,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1KdaSigeV4cyHSsxZiPmK4CqST1dAyxrG"
+    },
+    {
+      "nome": "ASSOCIACAO A NOSSA JORNADA",
+      "id": 261,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1H7XBiGBVCV-ULkGCFTPMsSiRvXTpg5D3"
+    },
+    {
+      "nome": "ACEB ASSOCIACAO CULTURAL ESPORTIVA E BENEFICENTE DE VILA NOVA",
+      "id": 262,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Rf4wSXbXX9bKZNF4wpoDJz87Y_T9m8uG"
+    },
+    {
+      "nome": "CLUBE BENEFICENTE DONA OLGA",
+      "id": 263,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1ZYIxab2uOGCjaExLi-R4nN3cz8Zjx4hS"
+    },
+    {
+      "nome": "ASSOCIACAO DOS MORADORES DO JARDIM ALFREDO",
+      "id": 264,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1ZtImfy4Yw2WVxIsEXKVEu12cr7AMZvxc"
+    },
+    {
+      "nome": "ASSOCIACAO COMUNIDADE BARACELA",
+      "id": 265,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1XxA44p7dA-nxfhLn98SZuAlRVNsakWDT"
+    },
+    {
+      "nome": "ASSOCIACAO DE ASSISTENCIA INTEGRACAO PROMOCAO E INCLUSAO SOCIAL DA REGIAO SUL CADUCEU",
+      "id": 266,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1ogRlhy8GhWkE4B1F-pzsMpYHlWwvnW0u"
+    },
+    {
+      "nome": "GREMIO RECREATIVO CULTURAL ESCOLA DE SAMBA SANTO AMARO",
+      "id": 267,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1HQZHb6E-utCZRqqpKwspd54tfxuElXNM"
+    },
+    {
+      "nome": "ASSOCIACAO ESPORTIVA CULTURAL EDUCACIONAL COMUNITARIA E SOCIAL",
+      "id": 268,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1QZRAJZPLGCvaYdL82UoWQFE92iwPFsTq"
+    },
+    {
+      "nome": "INSTITUTO SOCIAL VILA CALU",
+      "id": 269,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1Nc8bItxB8VcUnpPuAJEjHTM9-6wVTEtv"
+    },
+    {
+      "nome": "ASSOCIACAO BENEFICENTE PORTO ILUMINADO",
+      "id": 270,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1bZiLza2DzSnJXDX8y-crbZmicKwBAMpB"
+    },
+    {
+      "nome": "ORGANIZACAO REFEICAO PARA TODOS",
+      "id": 271,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1fGb_8YkfPBSbcNHTO2sOyg39rztbRLbc"
+    },
+    {
+      "nome": "ASSOCIACAO VIVA JARDIM JULIETA",
+      "id": 272,
+      "data": "19/03/2026",
+      "arquivo": "https://drive.google.com/uc?export=download&id=1oqNcT9S9w8VAvyzOVK8MgPgeSoWPOFw_"
+    }
+  ]
+}
