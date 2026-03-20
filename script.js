@@ -40,34 +40,48 @@ async function carregarCertificados() {
     }
 }
 
-/* ABRIR CERTIFICADO */
+/* ABRIR CERTIFICADO - Com modal usando visualizador Google Drive */
 function abrirCertificado(certificado) {
     if (!certificado.arquivo) {
         alert('Este certificado não possui arquivo disponível.');
         return;
     }
     
+    // Extrai o ID do arquivo do link
+    const id = certificado.arquivo.split('id=')[1];
+    
+    // Usa o visualizador oficial do Google Drive
+    const visualizador = `https://drive.google.com/file/d/${id}/preview`;
+    
+    // Atualiza o modal
     elements.pdfTitle.textContent = certificado.nome;
-    const pdfPath = 'certificados/' + certificado.arquivo;
-    
-    console.log('Abrindo PDF:', pdfPath);
-    
-    elements.pdfFrame.src = pdfPath;
+    elements.pdfFrame.src = visualizador;
     elements.pdfViewer.style.display = 'flex';
-    elements.pdfViewer.dataset.currentPdf = pdfPath;
+    elements.pdfViewer.dataset.currentPdf = certificado.arquivo;
+    elements.pdfViewer.dataset.currentId = id;
 }
 
-/* IMPRIMIR (do modal) */
+/* IMPRIMIR - do modal */
 function imprimirCertificado() {
     const pdfPath = elements.pdfViewer.dataset.currentPdf;
+    const pdfId = elements.pdfViewer.dataset.currentId;
+    
     if (pdfPath) {
+        // Abre em nova aba e imprime
         const printWindow = window.open(pdfPath, '_blank');
         if (printWindow) {
-            printWindow.onload = function() {
+            setTimeout(function() {
                 printWindow.print();
-            };
+            }, 1500);
         } else {
             alert('Por favor, permita pop-ups para imprimir o certificado.');
+        }
+    } else if (pdfId) {
+        const printWindow = window.open(`https://drive.google.com/file/d/${pdfId}/view`, '_blank');
+        if (printWindow) {
+            setTimeout(function() {
+                printWindow.print();
+            }, 1500);
         }
     }
 }
@@ -79,28 +93,22 @@ function baixarCertificado(certificado) {
         return;
     }
     
-    const pdfPath = 'certificados/' + certificado.arquivo;
-    const link = document.createElement('a');
-    link.href = pdfPath;
-    link.download = certificado.arquivo;
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
+    // Abre em nova aba para download
+    window.open(certificado.arquivo, '_blank');
 }
 
-/* IMPRIMIR DIRETO */
+/* IMPRIMIR DIRETO (sem modal) */
 function imprimirCertificadoDireto(certificado) {
     if (!certificado.arquivo) {
         alert('Este certificado não possui arquivo disponível.');
         return;
     }
     
-    const pdfPath = 'certificados/' + certificado.arquivo;
-    const printWindow = window.open(pdfPath, '_blank');
+    const printWindow = window.open(certificado.arquivo, '_blank');
     if (printWindow) {
-        printWindow.onload = function() {
+        setTimeout(function() {
             printWindow.print();
-        };
+        }, 1500);
     } else {
         alert('Por favor, permita pop-ups para imprimir o certificado.');
     }
@@ -110,11 +118,14 @@ function imprimirCertificadoDireto(certificado) {
 function fecharModal() {
     elements.pdfViewer.style.display = 'none';
     elements.pdfFrame.src = '';
+    elements.pdfViewer.dataset.currentPdf = '';
+    elements.pdfViewer.dataset.currentId = '';
 }
 
 /* RENDER */
 function render() {
-    elements.totalCount.innerHTML = `${certificadosFiltrados.length} encontrados`;
+    const total = certificadosFiltrados.length;
+    elements.totalCount.innerHTML = `${total} ${total === 1 ? 'certificado encontrado' : 'certificados encontrados'}`;
 
     if (certificadosFiltrados.length === 0) {
         elements.certificatesList.innerHTML = '<div class="no-results">Nenhum certificado encontrado</div>';
@@ -202,19 +213,26 @@ window.selecionarSugestao = function(nome) {
 elements.searchBtn.addEventListener('click', filtrar);
 
 /* EVENTOS DO MODAL */
-elements.closeViewerBtn.addEventListener('click', fecharModal);
-elements.printBtn.addEventListener('click', imprimirCertificado);
+if (elements.closeViewerBtn) {
+    elements.closeViewerBtn.addEventListener('click', fecharModal);
+}
+
+if (elements.printBtn) {
+    elements.printBtn.addEventListener('click', imprimirCertificado);
+}
 
 /* FECHAR MODAL AO CLICAR FORA */
-elements.pdfViewer.addEventListener('click', (e) => {
-    if (e.target === elements.pdfViewer) {
-        fecharModal();
-    }
-});
+if (elements.pdfViewer) {
+    elements.pdfViewer.addEventListener('click', (e) => {
+        if (e.target === elements.pdfViewer) {
+            fecharModal();
+        }
+    });
+}
 
 /* TECLA ESC FECHA MODAL */
 document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && elements.pdfViewer.style.display === 'flex') {
+    if (e.key === 'Escape' && elements.pdfViewer && elements.pdfViewer.style.display === 'flex') {
         fecharModal();
     }
 });
@@ -230,7 +248,7 @@ elements.searchInput.addEventListener('keypress', (e) => {
 window.abrirCertificado = abrirCertificado;
 window.baixarCertificado = baixarCertificado;
 window.imprimirCertificadoDireto = imprimirCertificadoDireto;
+window.fecharModal = fecharModal;
 
 /* INIT */
 carregarCertificados();
-
